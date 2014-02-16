@@ -1,0 +1,38 @@
+[
+  {
+    "path" : "soyuz",
+    "name" : "Soyuz",
+    "specs" : {
+      "height" : "45.6",
+      "diameter" : "10.3",
+      "mass" : "308,000"
+    },
+    "country" : "USSR",
+    "description" : "description here",
+    "image" : "http://www..."
+  },
+  {
+    "path" : "ariran-5",
+    "name" : "Ariran 5",
+    "specs" : {
+      "height" : "46–52",
+      "diameter" : "5.4",
+      "mass" : "777,000"
+    },
+    "country" : "Europe",
+    "description" : "description here",
+    "image" : "http://www..."
+  },
+  {
+    "path" : "titan-4",
+    "name" : "Titan 4",
+    "specs" : {
+      "height" : "44",
+      "diameter" : "3.05",
+      "mass" : "943,050"
+    },
+    "country" : "USA",
+    "description" : "description here",
+    "image" : "http://www..."
+  }
+]
